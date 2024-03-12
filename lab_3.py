@@ -87,3 +87,17 @@ person.values()
 
 
 ### Assignments
+
+
+#%% Assignment 1
+person_1 = {"name": "Thijs", "age": 62, "hobbies": ['hiking', 'gardening', 'klussen']}
+
+
+#%%
+person_1
+
+
+
+
+
+# %%
